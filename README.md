@@ -31,4 +31,8 @@
 - **Hosting:** Local or can be deployed via Vercel/Render
 
 ## 📂 Folder Structure
-
+odoo_civictrack_hackathon/
+├── server.js # Backend API logic
+├── package.json # Node.js dependencies
+├── node_modules/ # Installed packages
+└── public/ # Frontend files (optional)
